@@ -1,6 +1,6 @@
 <h1>📚 React + Laravel Full-Stack CRUD Project</h1>
 
-  <p>This is a simple full-stack CRUD (Create, Read, Update, Delete) project created by <b>Zyk Broncano</b> to practice and test the concepts I’ve learned about <b>React.js</b> for the frontend and <b>Laravel (PHP)</b> for the backend.</p>
+  <p>This is a simple full-stack CRUD (Create, Read, Update, Delete) project to practice and test the concepts I’ve learned about <b>React.js</b> for the frontend and <b>Laravel (PHP)</b> for the backend.</p>
 
   <hr>
 
