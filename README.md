@@ -4,30 +4,34 @@
 
   <hr>
 
-  <h2>📦 Project Structure</h2>
-  <pre>
-/React_Full-stack
-│
-├── reactDB          📡 Laravel Backend (API Server)
-│   └── ...          Laravel files (controllers, routes, migrations, models)
-│
-├── my-react-app     🎨 React Frontend
-│   └── ...          React files (components, modals, tables, API services)
-│
-└── README.md        📄 Project information and instructions
-  </pre>
-
-  <hr>
 
   <h2>📝 Summary</h2>
 
   <h3>Frontend: my-react-app</h3>
   <ul>
-    <li>Built with <b>React.js</b> using <b>Vite</b></li>
+    <li>Built with <b>React.js</b></li>
     <li>Contains CRUD operations interface</li>
     <li>Communicates with the backend via API requests</li>
-    <li>Uses ESLint and modern React tooling</li>
   </ul>
+
+<h2>📸 Screenshots:</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3991be1-c399-4c3b-ba11-1d157883ac6e" alt="Dashboard Overview" width="600">
+  <br><i>Dashboard: Sample Data. </i></br>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af1d11ed-0811-48ff-9fc0-512094f779cc" alt="Feature" width="600">
+    <br><i>Edit Modal: Can edit data.  </i></br>
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0192bc8-2c98-4e7f-9c21-f212f0184f32" alt="Branch Selection" width="600">
+      <br><i>Database : PHPMydmin</i></br>
+
+</p>
 
   <h3>Backend: reactDB</h3>
   <ul>
